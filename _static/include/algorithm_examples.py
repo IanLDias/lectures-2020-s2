@@ -1,4 +1,3 @@
-
 # Example code to be discussed in the following videos
 
 import time
